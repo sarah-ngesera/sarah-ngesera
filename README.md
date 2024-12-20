@@ -13,19 +13,6 @@ Je suis sarah](https://github.com/sarah-ngesera - Développeur Web passionné
 
 ## Comment me contacte
 - 📧 sarahngesera12@gmail.com
-footer {
-  background-color: #f8f9fa;
-  padding: 20px 0;
-}
-footer h4 {
-  color: #343a40;
-}
-footer p, footer a {
-  color: #6c757d;
-}
-footer a {
-  text-decoration: none;
-}
 
 <footer>
   <div class="container">
@@ -45,9 +32,9 @@ footer a {
       </div>
       <div class="col">
         <h4>Retrouvez-nous</h4>
-        <a href="https://twitter.com/mon_profil">Twitter</a>
-        <a href="https://facebook.com/mon_profil">Facebook</a>
-        <a href="https://linkedin.com/in/mon_profil">LinkedIn</a>
+        <a href="https://WhatsApp.com/sarah">WhatsApp</a>
+        <a href="https://facebook.com/sarah">Facebook</a>
+        <a href="https://instagramme.com/in/sarah">instagramme</a>
       </div>
     </div>
   </div>
