@@ -13,14 +13,28 @@ Je suis sarah](https://github.com/sarah-ngesera - Développeur Web passionné
 
 ## Comment me contacte
 - 📧 sarahngesera12@gmail.com
+footer {
+  background-color: #f8f9fa;
+  padding: 20px 0;
+}
+footer h4 {
+  color: #343a40;
+}
+footer p, footer a {
+  color: #6c757d;
+}
+footer a {
+  text-decoration: none;
+}
+
 <footer>
   <div class="container">
     <div class="row">
       <div class="col">
         <h4>Contactez-nous</h4>
-        <p>Email : contact@example.com</p>
-        <p>Téléphone : +1234567890</p>
-        <p>Adresse : 123 Rue de l'Exemple, Ville, Pays</p>
+        <p>Email : sarahngesera8@gmail</p>
+        <p>Téléphone : +243 970952622</p>
+        <p>Adresse : Q. kyavuyiri, V. Butembo, P. RDC</p>
       </div>
       <div class="col">
         <h4>Newsletter</h4>
