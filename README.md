@@ -1,6 +1,6 @@
 # sarah-ngesera-
 # Bonjour! 👋
-Je suis sarah](https://github.com/sarah-ngesera - Développeur Web passionné
+Je suis sarah https://github.com/sarah-ngesera - Développeur Web passionné
 
 ## Compétences
 - 💻 HTML, CSS, JavaScript
@@ -10,7 +10,6 @@ Je suis sarah](https://github.com/sarah-ngesera - Développeur Web passionné
 ## Projets en vedette
 - sarah. https://github.com/sarah-ngesera/sarah.
 -  inscripttion aux événement https://sarah-ngesera.github.io/Spa/  
-
 ## Comment me contacte
 - 📧 sarahngesera12@gmail.com
 
