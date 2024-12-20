@@ -23,7 +23,7 @@ Je suis sarah https://github.com/sarah-ngesera - Développeur Web passionné
         <p>Adresse : Q. kyavuyiri, V. Butembo, P. RDC</p>
       </div>
       <div class="col">
-        <h4>Newsletter</h4>
+        <h4>News letter</h4>
         <form>
           <input type="email" placeholder="Votre e-mail">
           <button type="submit">S'inscrire</button>
