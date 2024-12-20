@@ -12,7 +12,8 @@ Je suis sarah https://github.com/sarah-ngesera - Développeur Web passionné
 ## Comment me contacte
 - 📧 sarahngesera12@gmail.com
 ## Image
-mon image https:/images/R.jpg
+mon image https://github.com/sarah-ngesera/sarah-ngesera/blob/main/images/mon_image.png 
+
 
 <footer>
   <div class="container">
