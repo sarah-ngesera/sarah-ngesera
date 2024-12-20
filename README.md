@@ -1,4 +1,3 @@
-# sarah-ngesera-
 # Bonjour! 👋
 Je suis sarah https://github.com/sarah-ngesera - Développeur Web passionné
 
